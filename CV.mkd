@@ -1,0 +1,81 @@
+Jakob Progsch
+=============
+**Nationality:** Swiss (2002) & Austrian (Birth)
+
+**Address:**
+Trübelstrasse 33
+8712 Stäfa ZH
+Switzerland
+
+**E-Mail:** jakob@progsch.net
+
+Skills
+------
+
+* Programming Languages: C/C++, lua, assembly, java
+* Graphics and GPGPU: OpenGL, CUDA, OpenCL, XNA
+* Concurrency: Threading, OpenMP, MPI
+* Interests: Graphics, Physics Simulation, Compiler Design, Optimization
+* Operating Systems: Linux, Windows
+
+Education
+---------
+
+**2011-2014** Computational Sciences and Engineering - ETH Zürich
+* Bachelor's Degree 2013
+* Master's Degree expected October 2014
+* Specalizing in Computational Electromagnetics and Theoretical Physics
+* MSc Thesis: _Artistic Control for Physics-Based Character Skinning_ at Disney Research Zürich
+* Various additional courses covering:
+    * High Performance Computing
+    * Fast numerical code
+    * Graphics and Game Programming
+    * Compiler Design
+
+**2008-2011**
+Physics - ETH Zürich
+
+**2005-2008**
+Mathematics - ETH Zürich
+
+**2000-2004**
+Mathematisch Naturwissenschaftliches Gymnasium Rämibühl (Zürich)
+
+* Specialization: Physics and Mathematics
+
+**1998-2000** Literargymnasium Rämibühl (Zürich)
+
+Employment and Experience
+-------------------------
+
+**2013** Teaching Assistant for _High Performance Computing_ (CUDA, OpenMP, MPI)
+* Creation of exercises, reference solutions and supplemental material for the lecture.
+* Assisting and teaching students.
+
+**2011** Internship at the Paul Scherrer Institute
+
+* Maintenance of the OPAL&IPPL beam optics simulation software.
+* Run large scale tests of IPPL on MPI clusters.
+* Added basic P3M simulation capability to IPPL.
+
+**2008-2009** Teaching Assistant for Calculus
+
+* Assisting and teaching students.
+
+**2004-2005** Mandatory Swiss Army Training (Rank of Sergeant)
+
+**Projects and Contributions to Open Source:**
+https://github.com/progschj
+
+Miscellaneous
+-------------
+
+**Hobbies:**
+
+* Photography
+* Pistol Target Shooting
+
+**2002-2005** Swiss Junior National Team Pistol (10/25/50m)
+
+* Participation in Tallin 2004 (10m) and Belgrad 2005 (25m) European Championships.
+* Various single and team medals on national level competition.
