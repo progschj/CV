@@ -17,6 +17,9 @@ Skills
 * Concurrency: Threading, OpenMP, MPI
 * Interests: Graphics, Physics Simulation, Compiler Design, Optimization
 * Operating Systems: Linux, Windows
+* Languages:
+   * German: native language
+   * English: fluent (speaking, reading, writing)
 
 Education
 ---------
