@@ -12,14 +12,14 @@ Switzerland
 Skills
 ------
 
-* Programming Languages: C/C++, lua, assembly, java
-* Graphics and GPGPU: OpenGL, CUDA, OpenCL, XNA
+* Programming Languages: C, C++(11), lua, assembly, java
+* Graphics and GPGPU: OpenGL, GLES, CUDA, OpenCL, XNA
 * Concurrency: Threading, OpenMP, MPI
 * Interests: Graphics, Physics Simulation, Compiler Design, Optimization
 * Operating Systems: Linux, Windows
 * Languages:
-   * German: native language
-   * English: fluent (speaking, reading, writing)
+   - German: native language
+   - English: fluent (speaking, reading, writing)
 
 Education
 ---------
@@ -30,10 +30,10 @@ Education
 * Specalizing in Computational Electromagnetics and Theoretical Physics
 * MSc Thesis: _Artistic Control for Physics-Based Character Skinning_ at Disney Research Zürich
 * Various additional courses covering:
-    * High Performance Computing
-    * Fast numerical code
-    * Graphics and Game Programming
-    * Compiler Design
+    - High Performance Computing
+    - Fast numerical code
+    - Graphics and Game Programming
+    - Compiler Design
 
 **2008-2011**
 Physics - ETH Zürich
@@ -68,7 +68,43 @@ Employment and Experience
 **2004-2005** Mandatory Swiss Army Training (Rank of Sergeant)
 
 **Projects and Contributions to Open Source:**
-https://github.com/progschj
+
+* educational OpenGL example codes (C++)
+    - concise single file examples without custom dependencies
+    - commented to highlight features and allow easy cross referencing with OpenGL specification
+
+* various OpenGL and XNA rendering experiments and projects
+    - deferred renderers
+    - post processing effect (depth of field blur, motion blur, shadowing techniques etc.)
+    - GPGPU usage of OpenGL with and without Compute Shaders
+    - complete game as team semester project using XNA targeting XBOX 360
+
+* various numerical simulations
+    - particle physics and n-body problems
+    - keplerian orbital mechanics
+    - rigid body physics
+    - optimization of optical coatings
+    - fitting BRDF models to measured (MERL) BRDFs
+    - application of CUDA, OpenCL, intrinsic based vectorization, expression templates,
+    memory optimizations and general optimizations strategies to the above
+
+* a 3D triangle software rasterizer (C)
+    - performs vertex transforms, clipping and rasterization
+    - rasterization by hand optimized tiled half space algorithm
+    - early-z optimizations on tiles
+    - perspective and non perspective interpolation of vertex attributes
+
+* Just-In-Time compiler for domain specific language for particle systems (C, assembly)
+    - lecture project with limited timeframe
+    - end to end implementation from scratch (from parsing to code generation)
+    - various optimizations including vectorization
+
+* toy programming languages (C and C++11)
+    - hand written lexers parser
+    - interpreters
+    - code generation experiments
+
+see also: https://github.com/progschj
 
 Miscellaneous
 -------------
@@ -78,7 +114,7 @@ Miscellaneous
 * Photography
 * Pistol Target Shooting
 
-**2002-2005** Swiss Junior National Team Pistol (10/25/50m)
+**2002-2005** Swiss Junior National Pistol Shooting Team (10/25/50m)
 
 * Participation in Tallin 2004 (10m) and Belgrad 2005 (25m) European Championships.
 * Various single and team medals on national level competition.
