@@ -25,8 +25,8 @@ Education
 ---------
 
 **2011-2014** Computational Sciences and Engineering - ETH Zürich
+* Master's Degree 2014
 * Bachelor's Degree 2013
-* Master's Degree expected October 2014
 * Specalizing in Computational Electromagnetics and Theoretical Physics
 * MSc Thesis: _Artistic Control for Physics-Based Character Skinning_ at Disney Research Zürich
 * Various additional courses covering:
